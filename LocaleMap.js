@@ -643,10 +643,10 @@ export const LOCALES = {
   //   "nativeName": "Português",
   //   "englishName": "Portuguese"
   // },
-  // "pt-BR": {
-  //   "nativeName": "Português (Brasil)",
-  //   "englishName": "Portuguese (Brazil)"
-  // },
+  "pt-BR": {
+    "nativeName": "Português (Brasil)",
+    "englishName": "Portuguese (Brazil)"
+  },
   // "pt-PT": {
   //   "nativeName": "Português (Portugal)",
   //   "englishName": "Portuguese (Portugal)"
